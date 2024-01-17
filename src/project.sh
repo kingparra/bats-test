@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-echo "Hello, World!"
-
+echo "Welcome to our project!"
+echo "Not implemented." >&2
+exit 1
